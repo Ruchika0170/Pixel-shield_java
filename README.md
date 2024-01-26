@@ -39,7 +39,6 @@ Java Development Kit (JDK): Required to compile and run the project.
 Java GUI library: Used for creating the graphical interface (e.g., Swing, JavaFX).
 
 
-Credits
 
 Developer: (RUCHIKA)
 
