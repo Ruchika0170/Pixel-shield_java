@@ -40,6 +40,9 @@ Java GUI library: Used for creating the graphical interface (e.g., Swing, JavaFX
 
 
 Credits
+
 Developer: (RUCHIKA)
+
 Inspiration: (An idea shared by my friend)
+
 I hope this helps!# Pixel-shield_java
